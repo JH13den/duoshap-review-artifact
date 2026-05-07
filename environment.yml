@@ -1,0 +1,13 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - conda==23.3.1
+  - setuptools
+  - pip
+  - wheel
+  - conda-content-trust
+  - cuda-nvrtc-dev=12.8
+  - cuda-nvcc=12.8
+  - cuda-cudart-dev=12.8

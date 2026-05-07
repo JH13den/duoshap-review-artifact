@@ -1,0 +1,225 @@
+absl-py==2.1.0
+accelerate==1.11.0
+aiohappyeyeballs==2.6.1
+aiohttp==3.12.15
+aiosignal==1.4.0
+ale-py==0.11.2
+annotated-types==0.7.0
+anyio==4.11.0
+appdirs==1.4.4
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+astunparse==1.6.3
+async-timeout==5.0.1
+attrs==25.3.0
+AutoROM==0.6.1
+beartype==0.14.1
+better-abc==0.0.3
+boltons @ file:///croot/boltons_1677628692245/work
+brotlipy==0.7.0
+cairocffi==1.7.0
+CairoSVG==2.7.1
+captum==0.8.0
+certifi @ file:///home/task_177697106104565/croot/certifi_1776971124844/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+chex==0.1.90
+choreographer==1.2.0
+circuitsvis==1.38.1
+click==8.1.7
+cloudpickle==3.0.0
+commonmark==0.9.1
+conda @ file:///croot/conda_1694544150384/work
+conda-content-trust @ file:///tmp/abs_5952f1c8-355c-4855-ad2e-538535021ba5h26t22e5/croots/recipe/conda-content-trust_1658126371814/work
+conda-package-handling @ file:///croot/conda-package-handling_1672865015732/work
+conda_package_streaming @ file:///croot/conda-package-streaming_1670508151586/work
+contourpy==1.2.1
+cryptography @ file:///croot/cryptography_1677533068310/work
+cssselect2==0.7.0
+cuda-bindings==12.9.4
+cuda-pathfinder==1.3.4
+cycler==0.12.1
+datasets==4.4.1
+deap==1.4.1
+defusedxml==0.7.1
+dill==0.3.7
+dm-haiku==0.0.15
+docker-pycreds==0.4.0
+einops==0.6.1
+english-words==1.1.0
+evaluation==0.0.2
+exceptiongroup==1.3.0
+fancy-einsum==0.0.3
+Farama-Notifications==0.0.4
+filelock==3.14.0
+flatbuffers==24.3.25
+fonttools==4.51.0
+frozenlist==1.7.0
+fsspec==2023.10.0
+gast==0.5.4
+gitdb==4.0.12
+GitPython==3.1.45
+glog==0.3.1
+google-pasta==0.2.0
+grpcio==1.63.0
+gymnasium==1.2.1
+h11==0.16.0
+h5py==3.11.0
+hf-xet==1.2.0
+httpcore==1.0.9
+httpx==0.28.1
+huggingface-hub==0.36.0
+idna @ file:///croot/idna_1666125576474/work
+importlib-metadata==5.2.0
+iniconfig==2.3.0
+inspyred==1.0.2
+jax==0.6.2
+jaxlib==0.6.2
+jaxtyping==0.3.3
+Jinja2==3.1.4
+jmp==0.0.4
+joblib==1.4.2
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+kaleido==1.1.0
+keras==3.3.3
+kiwisolver==1.4.5
+lazygrid==5.0.6
+liac-arff==2.5.0
+libclang==18.1.1
+llvmlite==0.44.0
+logistro==2.0.0
+Markdown==3.6
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+matplotlib==3.2.2
+mdurl==0.1.2
+-e git+https://github.com/kajetanj/mi_utils_public.git@2930a3e6847e0096eb695bffa1f3ac5e8660dd8d#egg=mi_utils
+minio==7.2.7
+ml_dtypes==0.5.3
+mordred==1.2.0
+mpmath==1.3.0
+multidict==6.6.4
+multiprocess==0.70.15
+namex==0.0.8
+narwhals==2.10.0
+networkx==2.8.8
+ninja==1.13.0
+numba==0.61.2
+numpy==1.26.4
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cublas-cu12==12.8.4.1
+nvidia-cuda-cupti-cu12==12.8.90
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-nvrtc-cu12==12.8.93
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cuda-runtime-cu12==12.8.90
+nvidia-cudnn-cu11==8.5.0.96
+nvidia-cudnn-cu12==9.10.2.21
+nvidia-cufft-cu12==11.3.3.83
+nvidia-cufile-cu12==1.13.1.3
+nvidia-curand-cu12==10.3.9.90
+nvidia-cusolver-cu12==11.7.3.90
+nvidia-cusparse-cu12==12.5.8.93
+nvidia-cusparselt-cu12==0.7.1
+nvidia-nccl-cu12==2.27.5
+nvidia-nvjitlink-cu12==12.8.93
+nvidia-nvshmem-cu12==3.3.20
+nvidia-nvtx-cu12==12.8.90
+opencv-python==4.9.0.80
+openml==0.14.2
+opt-einsum==3.3.0
+optree==0.11.0
+orjson==3.11.4
+packaging==26.2
+pandas==1.5.3
+pathtools==0.1.2
+pillow==10.3.0
+platformdirs==4.5.0
+plotly==6.3.1
+pluggy==1.6.0
+propcache==0.3.2
+protobuf==4.25.3
+prototypes==1.0.0
+psutil==7.2.2
+pyarrow==22.0.0
+pyarrow-hotfix==0.7
+pycosat @ file:///croot/pycosat_1666805502580/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodome==3.20.0
+pydantic==2.12.0
+pydantic_core==2.41.1
+pygad==3.3.1
+Pygments==2.18.0
+pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
+pyparsing==3.1.2
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+PySvelte @ git+https://github.com/neelnanda-io/PySvelte@9d02cf8a77d3fa7220a5d1abf0523c99c7b5575a
+pytest==8.4.2
+pytest-timeout==2.4.0
+python-dateutil==2.9.0.post0
+python-gflags==3.1.2
+pytz==2024.1
+PyYAML==6.0.2
+rdkit==2023.9.6
+regex==2025.9.1
+requests==2.32.5
+rich==12.6.0
+ruamel.yaml @ file:///croot/ruamel.yaml_1666304550667/work
+ruamel.yaml.clib @ file:///croot/ruamel.yaml.clib_1666302247304/work
+safetensors==0.6.2
+scikeras==0.13.0
+scikit-learn==1.4.2
+scipy==1.13.0
+seaborn==0.13.2
+sentencepiece==0.2.1
+sentry-sdk==2.41.0
+setproctitle==1.3.7
+setuptools-scm==7.1.0
+shap==0.48.0
+shellingham==1.5.4
+Shimmy==1.3.0
+simplejson==3.20.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+slicer==0.0.8
+smmap==5.0.2
+sniffio==1.3.1
+sympy==1.14.0
+tabulate==0.9.0
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+tensorflow==2.16.1
+tensorflow-io-gcs-filesystem==0.37.0
+termcolor==2.4.0
+threadpoolctl==3.5.0
+tiktoken==0.11.0
+tinycss2==1.3.0
+tokenizers==0.22.1
+tomli==2.3.0
+toolz @ file:///croot/toolz_1667464077321/work
+torch==2.10.0
+torchtyping==0.1.5
+torchvision==0.25.0
+tqdm==4.67.1
+transformer-lens @ git+https://github.com/neelnanda-io/TransformerLens@5751cd2d5de7b82f4cbaf5a36d2234f650f9ab71
+transformers==4.57.1
+transformers-stream-generator==0.0.5
+triton==3.5.1
+typeguard==2.13.3
+typer-slim==0.20.0
+typing-inspection==0.4.2
+typing_extensions==4.15.0
+tzdata==2024.1
+umap==0.1.1
+urllib3 @ file:///croot/urllib3_1680254681959/work
+wadler_lindig==0.1.7
+wandb==0.13.11
+webencodings==0.5.1
+Werkzeug==3.0.3
+wrapt==1.16.0
+xgboost==2.0.3
+xmltodict==0.13.0
+xxhash==3.5.0
+yarl==1.20.1
+zipp==3.23.0
+zstandard @ file:///croot/zstandard_1677013143055/work
