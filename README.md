@@ -1,6 +1,6 @@
-# DuoShap Review Artifact
+# DuoShao-Reproducibility-NeurIPS26
 
-This repository contains the anonymous code artifact for the NeurIPS 2026 submission on Reviving Shapley Values for LLM Interpretability
+This repository contains the anonymous code artifact for the NeurIPS 2026 submission on Reviving Shapley Values for LLM Interpretability.
 The code is organized around three experimental settings:
 
 1. **Mechanistic Circuit Discovery**  
