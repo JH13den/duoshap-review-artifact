@@ -25,7 +25,7 @@ import os
 # ------------------------------------------------------------------
 # Force HuggingFace caches under /deac
 # ------------------------------------------------------------------
-os.environ["HF_HOME"] = "/deac/csc/yangGrp/wangy22/2025_Summer/hf_cache"
+os.environ["HF_HOME"] = "xxxxxx"
 os.environ["HF_DATASETS_CACHE"] = os.path.join(os.environ["HF_HOME"], "datasets")
 os.environ["HUGGINGFACE_HUB_CACHE"] = os.path.join(os.environ["HF_HOME"], "hub")
 os.environ["TRANSFORMERS_CACHE"] = os.environ["HF_HOME"]
