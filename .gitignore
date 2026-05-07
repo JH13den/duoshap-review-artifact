@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Logs
+*.out
+*.err
+*.log
+
+# Large outputs / data / caches
+data/
+dataset/
+datasets/
+output/
+outputs/
+results/
+cache/
+cache_output/
+checkpoints/
+models/
+wandb/
+
+# Model/data files
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.npy
+*.npz
+*.pkl
+*.jsonl
+*.csv
+
+# Environment / secrets
+.env
+*.key
+*.pem
+
+# System
+.DS_Store
