@@ -42,9 +42,7 @@ import numpy as np
 import torch
 import matplotlib.pyplot as plt
 
-# ------------------------------------------------------------------
-# FORCE HuggingFace caches to go under /deac (research path), not /home
-# ------------------------------------------------------------------
+
 os.environ["HF_HOME"] = "xxxxxxxx"
 os.environ["HF_DATASETS_CACHE"] = os.path.join(os.environ["HF_HOME"], "datasets")
 os.environ["HUGGINGFACE_HUB_CACHE"] = os.path.join(os.environ["HF_HOME"], "hub")

@@ -22,9 +22,7 @@ from __future__ import annotations
 
 import os
 
-# ------------------------------------------------------------------
-# Force HuggingFace caches under /deac
-# ------------------------------------------------------------------
+
 os.environ["HF_HOME"] = "xxxxxx"
 os.environ["HF_DATASETS_CACHE"] = os.path.join(os.environ["HF_HOME"], "datasets")
 os.environ["HUGGINGFACE_HUB_CACHE"] = os.path.join(os.environ["HF_HOME"], "hub")

@@ -25,9 +25,7 @@ from __future__ import annotations
 
 import os
 
-# ------------------------------------------------------------------
-# FORCE HuggingFace caches to go under /deac (research path), not /home
-# ------------------------------------------------------------------
+
 os.environ["HF_HOME"] = "xxxxxxxxxx"
 os.environ["HF_DATASETS_CACHE"] = os.path.join(os.environ["HF_HOME"], "datasets")
 os.environ["HUGGINGFACE_HUB_CACHE"] = os.path.join(os.environ["HF_HOME"], "hub")
